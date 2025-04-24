@@ -1,0 +1,171 @@
+body{
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+nav ul{
+    margin: 2.5rem;
+    font-weight: bolder;
+}
+nav a{
+    padding-right: 2.5rem;
+    text-decoration: none;
+    color: grey;
+}
+nav .rl a{
+    color: aliceblue;
+    background-color: rgb(16, 215, 215);
+    padding: 10px 45px;
+    border-radius: 30px;
+    
+}
+header{
+    display: flex;
+    background-color: rgb(238, 242, 245);
+}
+.text{
+    margin-top: 17rem;
+}
+.text h1{
+    width: 40%;
+    color: rgb(9, 1, 9);
+    font-weight: lighter;
+}
+.text p{
+    width: 55%;
+    font-size:18px; 
+    margin-bottom: 30px;
+    color: gray;
+}
+.text{
+    margin-left: 12.5rem;
+}
+.header-image{
+    background-image: url(/bg-intro-desktop.8be308fd.svg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right: 60px;
+}
+header .rl a{
+    color: aliceblue;
+    background-color: rgb(16, 215, 215);
+    padding: 10px 45px;
+    border-radius: 30px;
+    text-decoration: none;
+    
+}
+.body p{
+    font-size: 18px;
+    width: 50%;
+}
+.nugget{
+    display: flex;
+    gap: 50px;
+    
+}
+.nug p{
+    width: 75%;
+    color: gray;
+    color: 20px;
+}
+
+.nug h2{
+    font-weight: lighter;
+    color: rgb(9, 1, 9);
+    font-size: 25px;
+}
+.body{
+    margin-left: 12.5rem;
+    padding-bottom: 30px;
+    padding-top: 30px;
+   
+}
+.body h1{
+    color: rgb(9, 1, 9);
+    font-size: 25px;
+    font-weight: bold;
+}
+.box h1{
+    padding-top: 60px;
+}
+.box-image{
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: space-evenly;
+}
+.box-a{
+    margin-left: 12.5rem;
+    padding-bottom: 50px;
+    
+    
+}
+.image p{
+    width: 80%;
+    color: gray;
+    margin-left: 20px;
+}
+.image h3{
+    font-size: 15px;
+    margin-left: 20px;
+    color: rgb(9, 1, 9);
+
+}
+.box{
+    background-color: rgb(238, 242, 245);
+}
+.image{
+    background-color: white;
+    margin-right: 100px;
+    border-radius: 10px;
+}
+.image img{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+footer{
+    padding: 26px;
+    background-color:rgb(28, 7, 81) ;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    
+    
+}
+footer p{
+    color: white;
+}
+.foot-b a{
+    padding-right: 8px;
+}
+.foot-a{
+    margin-bottom: 40px;
+}
+.foot li a{
+    list-style: none;
+}
+.foot-right a{
+    color: aliceblue;
+    background-color: rgb(16, 215, 215);
+    padding: 10px 45px;
+    border-radius: 30px;
+    
+}
+.foot-right p{
+    margin-top: 40px;
+    color: grey;
+}
+
+
+
+
+
